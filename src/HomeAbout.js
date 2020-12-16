@@ -4,7 +4,6 @@ import absa from "../src/images/absa.png";
 import masa3 from "../src/images/masa3.png";
 import shape1 from "../src/images/shape-1.png";
 import websa12 from "../src/images/websa12.jpg";
-import abc from "../src/images/abc.jpeg";
 
 const HomeAbout = (props) => {
   return (
